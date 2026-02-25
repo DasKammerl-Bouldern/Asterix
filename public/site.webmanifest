@@ -1,0 +1,16 @@
+{
+  "name": "Das Kammerl",
+  "short_name": "Das Kammerl",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F6F8FA",
+  "theme_color": "#1E3A5F",
+  "lang": "de-AT",
+  "icons": [
+    {
+      "src": "/images/Icon_Basic.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

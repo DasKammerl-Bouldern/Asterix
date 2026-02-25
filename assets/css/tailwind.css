@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Palette aliases (1:1 zu deiner Tabelle) */
+    --c-8e3a76: #8e3a76;
+    --c-f9fbfa: #f9fbfa;
+    --c-e5c3dd: #e5c3dd;
+    --c-8f6082: #8f6082;
+    --c-be92b2: #be92b2;
+    --c-423f40: #423f40;
+    --c-7d406b: #7d406b;
+    --c-f0ebf7: #f0ebf7;
+
+    /* Semantic tokens */
+    --primary: #8e3a76;
+    --background: #f9fbfa;
+    --soft: #e5c3dd;
+    --muted: #8f6082;
+    --lightpurple: #be92b2;
+    --dark: #423f40;
+    --accentdark: #7d406b;
+    --altbg: #f0ebf7;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background-color: var(--background);
+    color: var(--dark);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+@layer components {
+  .motion-card {
+    @apply transition-all duration-300 ease-out hover:-translate-y-1 hover:shadow-lg;
+  }
+
+  .motion-btn {
+    @apply transition-all duration-200 ease-out hover:-translate-y-0.5 active:translate-y-0;
+  }
+
+  .motion-link {
+    @apply transition-colors duration-200 ease-out;
+  }
+}

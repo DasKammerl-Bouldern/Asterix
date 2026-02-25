@@ -1,0 +1,21 @@
+# daskammerl
+
+Kurzname: daskammerl  
+Marke: Das Kammerl  
+Domain: https://daskammerl.at  
+Sprache: de-AT
+
+## Beschreibung
+daskammerl (Das Kammerl) ist eine Boulderhalle in Wieselburg. Die Website enthaelt Infos zu Preisen, Standort, Vision, Sponsoring sowie rechtliche Seiten.
+
+## Wichtige Seiten
+- Start: https://daskammerl.at/
+- Preise: https://daskammerl.at/price
+- Standort: https://daskammerl.at/location
+- Vision: https://daskammerl.at/vision
+- Sponsoring: https://daskammerl.at/sponsoren
+- Impressum: https://daskammerl.at/impressum
+- Datenschutz: https://daskammerl.at/datenschutz
+
+## Kontakt
+E-Mail: hello@daskammerl.at
