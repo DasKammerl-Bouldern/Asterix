@@ -16,7 +16,7 @@ export default defineNuxtConfig({
       siteUrl: 'https://daskammerl.at',
       siteLanguage: 'de-AT',
       defaultSeoDescription:
-        'Das Kammerl ist die Boulderhalle in Wieselburg mit Kursen, Community und modernen Boulderbereichen fuer alle Levels.',
+        'Das Kammerl ist die Boulderhalle in Wieselburg mit Kursen, Community und modernen Boulderbereichen für alle Levels.',
       defaultOgImage: '/images/index_image_1.jpg'
     }
   },

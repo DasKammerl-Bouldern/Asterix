@@ -1,4 +1,4 @@
-﻿<template>
+<template>
   <section id="angebot" class="bg-background py-16 sm:py-20">
     <div class="mx-auto w-full max-w-6xl px-4 sm:px-6 lg:px-8">
       <div class="max-w-2xl">
@@ -44,7 +44,7 @@ const features = [
   },
   {
     title: 'Community Events',
-    text: 'Regelmaessige Events, Challenges und offene Sessions mit der Community.',
+    text: 'Regelmäßige Events, Challenges und offene Sessions mit der Community.',
     iconPath: 'M16 11a4 4 0 1 0-8 0m12 8a6 6 0 0 0-12 0m10-8a3 3 0 1 0-3-3m6 11a4.5 4.5 0 0 0-4.5-4.5'
   }
 ]

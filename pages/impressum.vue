@@ -10,7 +10,7 @@
           <p class="mt-2 text-muted">Bewegungsgarage, Am Bahnhof 8</p>
           <p class="text-muted">Wieselburg</p>
           <p class="mt-4 text-muted"><span class="font-semibold text-dark">E-Mail:</span> servus@daskammerl.at</p>
-          <p class="mt-4 text-sm text-muted">Verantwortlich fuer den Inhalt: Das Kammerl Team</p>
+          <p class="mt-4 text-sm text-muted">Verantwortlich für den Inhalt: Das Kammerl Team</p>
         </div>
       </div>
     </main>

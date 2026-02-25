@@ -1,4 +1,4 @@
-﻿<template>
+<template>
   <div>
     <Navbar />
 
@@ -35,7 +35,7 @@
               rel="noopener noreferrer"
               class="mt-6 inline-flex rounded-xl bg-primary px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-accentdark"
             >
-              Jetzt direkt supporten
+              Jetzt direkt unterstützen
             </a>
           </div>
 
@@ -51,7 +51,7 @@
 usePageSeo({
   title: 'Sponsoring Das Kammerl Wieselburg',
   description:
-    'Sponsoring bei Das Kammerl Wieselburg: Unterstuetzungsstand, Pakete und direkte Anfrage ueber unser Formular.'
+    'Sponsoring bei Das Kammerl Wieselburg: Unterstützungsstand, Pakete und direkte Anfrage über unser Formular.'
 })
 </script>
 

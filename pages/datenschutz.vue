@@ -7,7 +7,7 @@
         <h1 class="mt-3 text-4xl font-extrabold text-dark sm:text-5xl">Datenschutz</h1>
         <div class="mt-8 rounded-2xl border border-primary/15 bg-white p-6 shadow-md">
           <p class="text-muted">
-            Wir verarbeiten personenbezogene Daten ausschliesslich im notwendigen Umfang zur Bereitstellung dieser Website
+            Wir verarbeiten personenbezogene Daten ausschließlich im notwendigen Umfang zur Bereitstellung dieser Website
             und zur Bearbeitung von Kontakt- und Formularanfragen.
           </p>
           <p class="mt-4 text-muted">

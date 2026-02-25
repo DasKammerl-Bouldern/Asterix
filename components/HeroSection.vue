@@ -2,7 +2,7 @@
   <section id="home" class="relative overflow-hidden bg-gradient-to-b from-altbg to-background">
     <div class="mx-auto grid min-h-[78vh] w-full max-w-6xl items-center gap-10 px-4 py-14 sm:px-6 lg:grid-cols-2 lg:px-8">
       <div class="space-y-6">
-        <p class="text-xs font-bold uppercase tracking-[0.2em] text-accentdark">Das Kammerl | Bouldern in Amstetten</p>
+        <p class="text-xs font-bold uppercase tracking-[0.2em] text-accentdark">Das Kammerl | Bouldern in Wieselburg</p>
         <h1 class="max-w-xl text-4xl font-extrabold leading-tight text-dark sm:text-5xl lg:text-6xl">
           Alles, was du fürs Bouldern brauchst. Auf einer Seite.
         </h1>
