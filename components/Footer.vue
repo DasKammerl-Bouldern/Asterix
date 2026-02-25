@@ -19,7 +19,7 @@
         </div>
       </div>
       <div class="flex items-center gap-2">
-        <p class="w-full border-t border-primary/15 pt-4 text-center">Kontakt: hello@daskammerl.at</p>
+        <p class="w-full border-t border-primary/15 pt-4 text-center">Kontakt: servus@daskammerl.at</p>
       </div>
       <div class="flex w-full justify-center gap-4 text-xs text-muted">
         <NuxtLink to="/impressum" class="motion-link hover:text-primary">Impressum</NuxtLink>
