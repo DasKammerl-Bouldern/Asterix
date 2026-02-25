@@ -1,12 +1,12 @@
 # Manueller Deploy: Build (Nuxt static) + Upload per FTP
-# Ausführen: Actions → "Build and Deploy to FTP" → Run workflow → Branch wählen → Run workflow
-name: Build and Deploy to FTP
+# Start: Actions → "Deploy to FTP" → Run workflow  ODER  npm run deploy
+name: Deploy to FTP
 
 on:
-  workflow_dispatch:  # manuell per "Run workflow" oder: npm run deploy
+  workflow_dispatch:
     inputs:
       branch:
-        description: "Branch, von dem deployed werden soll (z.B. main, develop)"
+        description: "Branch, von dem deployed werden soll"
         required: true
         default: "main"
         type: string
@@ -18,7 +18,7 @@ jobs:
     timeout-minutes: 15
 
     steps:
-      - name: Checkout (Branch: ${{ github.event.inputs.branch || 'main' }})
+      - name: Checkout
         uses: actions/checkout@v4
         with:
           ref: ${{ github.event.inputs.branch || 'main' }}

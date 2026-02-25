@@ -44,7 +44,7 @@ Wenn du den Befehl **`npm run deploy`** lokal nutzen willst:
 - **GitHub CLI** installieren: https://cli.github.com/
 - Einloggen: in einem Terminal `gh auth login` ausführen und den Anweisungen folgen
 
-Ohne das funktioniert der Deploy trotzdem – dann startest du ihn im Browser unter **Actions → Build & Deploy to FTP → Run workflow**.
+Ohne das funktioniert der Deploy trotzdem – dann startest du ihn im Browser unter **Actions → Deploy to FTP → Run workflow**.
 
 ---
 
@@ -65,7 +65,7 @@ Damit wird der GitHub-Actions-Workflow gestartet; der eigentliche Build und Uplo
 ### Option B: Im Browser (GitHub Actions)
 
 1. Im Repository zu **Actions** gehen.
-2. Links **„Build & Deploy to FTP“** auswählen.
+2. Links **„Deploy to FTP“** auswählen.
 3. Rechts auf **„Run workflow“** klicken.
 4. Unter **„Branch, von dem deployed werden soll“** den gewünschten Branch eintragen (z.B. `main` oder `develop`).
 5. Erneut **„Run workflow“** klicken (grüner Button).
@@ -96,5 +96,5 @@ Gehe im Repository zu **Settings → Secrets and variables → Actions** und leg
 ## Nach dem Einrichten
 
 - Einmal die Secrets eintragen (siehe oben).
-- Deploy nur, wenn du unter **Actions → Build & Deploy to FTP → Run workflow** startest und den Branch angibst.
+- Deploy nur, wenn du unter **Actions → Deploy to FTP → Run workflow** startest und den Branch angibst.
 - Logs und Fehler siehst du unter **Actions** → den jeweiligen Lauf anklicken.
