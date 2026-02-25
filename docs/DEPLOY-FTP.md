@@ -18,7 +18,7 @@ Von deinem Webhoster (z.B. wo daskammerl.at gehostet wird) brauchst du:
 
 ### 2. GitHub Secrets anlegen
 
-1. Öffne dein Repository auf GitHub: **https://github.com/DasKammerl/Asterix**
+1. Öffne dein Repository auf GitHub: **https://github.com/DasKammerl-Bouldern/Asterix**
 2. Gehe zu **Settings** (Reiter oben)
 3. Links: **Secrets and variables → Actions**
 4. Klicke **New repository secret** und lege nacheinander an:
