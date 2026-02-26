@@ -4,6 +4,10 @@ export default defineNuxtConfig({
 
   modules: ['@nuxtjs/tailwindcss'],
 
+  components: [
+    { path: '~/components', pathPrefix: false }
+  ],
+
   tailwindcss: {
     configPath: 'tailwind.config.js'
   },
